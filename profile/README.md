@@ -8,9 +8,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About us
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
-
-<br>
 
 - :school: We are three Computer Science Engineers at [Ghent University](https://www.ugent.be/ea/en).
 - :trophy: `Expedition DO!` Finalist.
